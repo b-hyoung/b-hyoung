@@ -10,7 +10,7 @@
   - JavaScript
   - JQuery
   - TypeScript ( Study ..ing)
-  - AWS (Study ..ing)
+  - AWS (S3 배포 , CI/CD)
       
   ### Project
    -  [Eriwa](https://github.com/djgnfj-svg/Eriwa) (게임 전적검색 사이트)
