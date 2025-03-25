@@ -29,24 +29,5 @@
 </a>
 
 
-# .github/workflows/update-readme.yml
-name: Update README with commit hours
-
-on:
-  schedule:
-    - cron: "0 * * * *" # 매시간마다
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Generate commit hours
-        run: |
-          git log --pretty=format:"%ad" --date=iso | \
-          awk '{ split($2,t,":"); hour=t[1]; count[hour]++ } END { for (i in count) print i,count[i] }' | sort > commit_hours.txt
-      - name: Add to README
-        run: |
-          echo "### 🕒 My Commit Hours" > commit_hours.md
-          cat commit_hours.txt >> commit_hours.md
+### 🧠 My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=b-hyoung&show_icons=true&theme=tokyonight)
