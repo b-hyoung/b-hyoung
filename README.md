@@ -31,4 +31,3 @@
 
 ### 🧠 My GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=b-hyoung&show_icons=true&theme=tokyonight)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=b-hyoung&theme=tokyonight)
