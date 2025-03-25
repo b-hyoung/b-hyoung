@@ -27,3 +27,10 @@
   height="350"
 />
 </a>
+
+
+### 🧠 My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=b-hyoung&show_icons=true&theme=tokyonight)
+
+### 🔥 My Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=b-hyoung&theme=tokyonight)](https://git.io/streak-stats)
