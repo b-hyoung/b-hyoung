@@ -19,3 +19,7 @@
    -  [Clover](https://github.com/djgnfj-svg/Clover) (소모임 커뮤니티 사이트)
    -  [ReSee](https://github.com/djgnfj-svg/Resee_project) (개인 노트 사이트)
    -  [Eriwa](https://github.com/djgnfj-svg/Eriwa) (게임 전적검색 사이트)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/b-hyoung?pet-id=1" width="1000" height="120"/>
+</a>
