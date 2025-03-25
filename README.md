@@ -23,7 +23,7 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=b-hyoung&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/b-hyoung"
-  width="600"
-  height="300"
+  width="700"
+  height="350"
 />
 </a>
