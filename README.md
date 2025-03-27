@@ -24,7 +24,7 @@
 <img
   src="https://render.gitanimals.org/farms/b-hyoung"
   width="1000"
-  height="350"
+  height="300"
 />
 </a>
 
