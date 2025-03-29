@@ -21,12 +21,12 @@
    -  [Eriwa](https://github.com/djgnfj-svg/Eriwa) (게임 전적검색 사이트)
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=b-hyoung&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/b-hyoung"
-    width="800"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=b-hyoung&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/b-hyoung"
+  width="800"
+  height="300"
+/>
 </a>
   
 
