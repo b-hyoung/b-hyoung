@@ -8,7 +8,7 @@
   - HTML/CSS
   - React / Redux
   - JavaScript
-  - Reqct-Query
+  - React-Query
   - TypeScript ( Study ..ing)
   - Zustand
   - TailwindCss
@@ -24,11 +24,11 @@
   
       
   ### Project
-   -  [PortFolio](http://www.b-hyoung.kr) (포트폴리오 사이트)
-   -  [Kkeua](https://github.com/djgnfj-svg/kkua) 끄아 끝말잇기 - 진행중 -
+   -  [http://www.b-hyoung.kr](http://www.b-hyoung.kr) (포트폴리오 사이트)
+   -  [Kkeua](https://github.com/djgnfj-svg/kkua)  (끝말잇기 - 진행중 - )
    -  [Clover](https://github.com/djgnfj-svg/Clover) (소모임 커뮤니티 사이트)
-   -  [ReSee](https://github.com/djgnfj-svg/Resee_project) (개인 노트 사이트)
-   -  [Eriwa](https://github.com/djgnfj-svg/Eriwa) (게임 전적검색 사이트)
+   -  [ReSee](https://github.com/djgnfj-svg/Resee_project) (개인 노트 사이트) 
+   -  [Eriwa](https://github.com/djgnfj-svg/Eriwa) (게임 전적검색 사이트) - 중단 -
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=b-hyoung&utm_content=farm">
