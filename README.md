@@ -4,18 +4,28 @@
 
 ---
 
-  ### Skill
+  ### Front End
   - HTML/CSS
   - React / Redux
   - JavaScript
-  - JQuery
+  - Reqct-Query
   - TypeScript ( Study ..ing)
-  - AWS (S3 배포)
-  
+  - Zustand
+  - TailwindCss
+  ### Back End
+  - Python3
+  - DjangoRestFramework
+  - MySQL
+ ### AWS
+- AWS EC2 + Gunicorn + Nginx 구성으로 Django 백엔드 배포
+- Supervisor를 통한 Gunicorn 자동 실행 예정
+- S3를 이용한 React 정적 웹사이트 배포
+
   
       
   ### Project
-   -  [PortFolio](http://reactportpolio.s3-website.ap-northeast-2.amazonaws.com) (포트폴리오 사이트)
+   -  [PortFolio](http://www.b-hyoung.kr) (포트폴리오 사이트)
+   -  [Kkeua](https://github.com/djgnfj-svg/kkua) 끄아 끝말잇기 - 진행중 -
    -  [Clover](https://github.com/djgnfj-svg/Clover) (소모임 커뮤니티 사이트)
    -  [ReSee](https://github.com/djgnfj-svg/Resee_project) (개인 노트 사이트)
    -  [Eriwa](https://github.com/djgnfj-svg/Eriwa) (게임 전적검색 사이트)
