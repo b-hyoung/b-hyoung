@@ -48,3 +48,10 @@
 | **ReSee** | 개인 노트 기록 사이트 | [GitHub](https://github.com/djgnfj-svg/Resee_project) |
 | **Eriwa** | 게임 전적 검색 (중단) | [GitHub](https://github.com/b-hyoung/NewRiwa) |
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=b-hyoung&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/b-hyoung"
+  width="400"
+  height="150"
+/>
+</a>
