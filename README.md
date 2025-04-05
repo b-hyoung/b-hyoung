@@ -46,7 +46,7 @@
 | **Kkeua** | 끝말잇기 게임 (진행 중) | [GitHub](https://github.com/djgnfj-svg/kkua) |
 | **Clover** | 소모임 커뮤니티 | [GitHub](https://github.com/djgnfj-svg/Clover) |
 | **ReSee** | 개인 노트 기록 사이트 | [GitHub](https://github.com/djgnfj-svg/Resee_project) |
-| **Eriwa** | 게임 전적 검색 (중단) | [GitHub](https://github.com/djgnfj-svg/Eriwa) |
+| **Eriwa** | 게임 전적 검색 (중단) | [GitHub](https://github.com/b-hyoung/NewRiwa) |
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=b-hyoung&utm_content=farm">
