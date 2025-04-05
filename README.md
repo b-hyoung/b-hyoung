@@ -21,6 +21,7 @@
 ----
 
  ## AWS
+ 
  ### Back
 - AWS EC2 + Gunicorn + Nginx 구성으로 Django 백엔드 배포
 - Supervisor를 통한 Gunicorn 자동 실행 예정
