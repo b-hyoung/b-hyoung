@@ -17,9 +17,20 @@
   - DjangoRestFramework
   - MySQL
  ### AWS
+ ## Back
 - AWS EC2 + Gunicorn + Nginx 구성으로 Django 백엔드 배포
 - Supervisor를 통한 Gunicorn 자동 실행 예정
-- S3를 이용한 React 정적 웹사이트 배포
+## Front
+- 도메인: b-hyoung.kr
+- 사용 서비스: S3, CloudFront, Route 53, ACM
+
+✅ 주요 작업
+	•	Amazon S3를 이용한 정적 웹사이트 호스팅
+	•	CloudFront로 글로벌 CDN 구성 및 HTTPS 설정
+	•	**ACM(인증서 관리자)**로 SSL 인증서 발급 및 적용
+	•	Route 53으로 커스텀 도메인 연결 및 DNS 관리
+
+https://b-hyoung.kr 에서 직접 확인 가능한 HTTPS 기반 정적 사이트를 AWS 기반 인프라로 전체 셋업했습니다.
 
   
       
