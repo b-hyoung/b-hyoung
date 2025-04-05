@@ -38,12 +38,15 @@
 
 ----  
       
-  ### Project
-   -  [http://www.b-hyoung.kr](http://www.b-hyoung.kr) (포트폴리오 사이트)
-   -  [Kkeua](https://github.com/djgnfj-svg/kkua)  (끝말잇기 - 진행중 - )
-   -  [Clover](https://github.com/djgnfj-svg/Clover) (소모임 커뮤니티 사이트)
-   -  [ReSee](https://github.com/djgnfj-svg/Resee_project) (개인 노트 사이트) 
-   -  [Eriwa](https://github.com/djgnfj-svg/Eriwa) (게임 전적검색 사이트) - 중단 -
+## 🚀 Projects
+
+| 이름 | 설명 | 링크 |
+|------|------|------|
+| **포트폴리오 사이트** | 정적 웹사이트 + AWS 전체 배포 | [🔗 바로가기](https://b-hyoung.kr) |
+| **Kkeua** | 끝말잇기 게임 (진행 중) | [GitHub](https://github.com/djgnfj-svg/kkua) |
+| **Clover** | 소모임 커뮤니티 | [GitHub](https://github.com/djgnfj-svg/Clover) |
+| **ReSee** | 개인 노트 기록 사이트 | [GitHub](https://github.com/djgnfj-svg/Resee_project) |
+| **Eriwa** | 게임 전적 검색 (중단) | [GitHub](https://github.com/djgnfj-svg/Eriwa) |
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=b-hyoung&utm_content=farm">
