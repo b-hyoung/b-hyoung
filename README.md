@@ -27,7 +27,7 @@
 - Gunicorn + Nginx로 백엔드 서버 안정적으로 구성
 - Route 53을 통해 커스텀 도메인 연결
 ### Front
-- 도메인: b-hyoung.kr
+- 도메인: https://b-hyoung.kr
 - 사용 서비스: S3, CloudFront, Route 53, ACM
 
 ✅ 주요 작업
