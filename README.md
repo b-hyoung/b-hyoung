@@ -17,7 +17,9 @@
   - Python3
   - DjangoRestFramework
   - MySQL
----
+
+----
+
  ## AWS
  ### Back
 - AWS EC2 + Gunicorn + Nginx 구성으로 Django 백엔드 배포
@@ -33,7 +35,8 @@
 	•	Route 53으로 커스텀 도메인 연결 및 DNS 관리
 
 https://b-hyoung.kr 에서 직접 확인 가능한 HTTPS 기반 정적 사이트를 AWS 기반 인프라로 전체 셋업했습니다.
----
+
+----
 
   
       
