@@ -13,7 +13,7 @@
 `Python`, `Django REST Framework`, `MySQL`
 
 **DevOps & Infra**  
-`AWS EC2`, `S3`, `CloudFront`, `Route 53`, `ACM`
+`AWS EC2`, `S3`, `CloudFront`, `Route 53`, `ACM` , `IAM`
 
 ----
 
@@ -23,6 +23,8 @@
 - Django REST API 프로젝트를 EC2에 직접 배포
 - Gunicorn + Nginx 조합으로 안정적 운영
 - Route 53을 통한 커스텀 도메인 연결 및 HTTPS 구성
+- **IAM Role + AWS Budgets**를 활용해, 예산 초과 시 EC2 인스턴스 자동 중지 설정
+- SNS를 통한 실시간 이메일 알림 수신으로 비용 초과 사전 차단
 
 ### 💡 Frontend (정적 웹사이트)
 - 도메인: [https://b-hyoung.kr](https://b-hyoung.kr)
