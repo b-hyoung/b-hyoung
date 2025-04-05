@@ -42,7 +42,7 @@
 
 | 이름 | 설명 | 링크 |
 |------|------|------|
-| **포트폴리오 사이트** | 정적 웹사이트 + AWS 전체 배포 | [🔗 바로가기](https://b-hyoung.kr) |
+| **포폴&블로그** | 정적 웹사이트 + AWS 전체 배포 | [🔗 바로가기](https://b-hyoung.kr) |
 | **Kkeua** | 끝말잇기 게임 (진행 중) | [GitHub](https://github.com/djgnfj-svg/kkua) |
 | **Clover** | 소모임 커뮤니티 | [GitHub](https://github.com/djgnfj-svg/Clover) |
 | **ReSee** | 개인 노트 기록 사이트 | [GitHub](https://github.com/djgnfj-svg/Resee_project) |
