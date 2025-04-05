@@ -20,26 +20,23 @@
 
 ----
 
- ## AWS
- 
- ### Back
-- AWS EC2 + Gunicorn + Nginx 구성으로 Django 백엔드 배포
-- Supervisor를 통한 Gunicorn 자동 실행 예정
+## AWS 
+### Back
+ Django REST API EC2 배포 경험
+- DRF 기반 블로그 API를 EC2에 배포하여 실제 운영
+- Gunicorn + Nginx로 백엔드 서버 안정적으로 구성
+- Route 53을 통해 커스텀 도메인 연결
 ### Front
 - 도메인: b-hyoung.kr
 - 사용 서비스: S3, CloudFront, Route 53, ACM
 
 ✅ 주요 작업
-	•	Amazon S3를 이용한 정적 웹사이트 호스팅
-	•	CloudFront로 글로벌 CDN 구성 및 HTTPS 설정
-	•	**ACM(인증서 관리자)**로 SSL 인증서 발급 및 적용
-	•	Route 53으로 커스텀 도메인 연결 및 DNS 관리
+	- Amazon S3를 이용한 정적 웹사이트 호스팅
+	- CloudFront로 글로벌 CDN 구성 및 HTTPS 설정
+	- **ACM(인증서 관리자)**로 SSL 인증서 발급 및 적용
+	- Route 53으로 커스텀 도메인 연결 및 DNS 관리
 
-https://b-hyoung.kr 에서 직접 확인 가능한 HTTPS 기반 정적 사이트를 AWS 기반 인프라로 전체 셋업했습니다.
-
-----
-
-  
+----  
       
   ### Project
    -  [http://www.b-hyoung.kr](http://www.b-hyoung.kr) (포트폴리오 사이트)
