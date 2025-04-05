@@ -12,15 +12,17 @@
   - TypeScript ( Study ..ing)
   - Zustand
   - TailwindCss
+---
   ### Back End
   - Python3
   - DjangoRestFramework
   - MySQL
- ### AWS
- ## Back
+---
+ ## AWS
+ ### Back
 - AWS EC2 + Gunicorn + Nginx 구성으로 Django 백엔드 배포
 - Supervisor를 통한 Gunicorn 자동 실행 예정
-## Front
+### Front
 - 도메인: b-hyoung.kr
 - 사용 서비스: S3, CloudFront, Route 53, ACM
 
