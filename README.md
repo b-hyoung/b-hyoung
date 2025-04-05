@@ -4,31 +4,31 @@
 
 ---
 
-  ### Front End
-  - HTML/CSS
-  - React / Redux
-  - JavaScript
-  - React-Query
-  - TypeScript ( Study ..ing)
-  - Zustand
-  - TailwindCss
----
-  ### Back End
-  - Python3
-  - DjangoRestFramework
-  - MySQL
+### 🛠️ Skills
+
+**Front-End**  
+`React`, `Zustand`, `Redux`, `Tailwind CSS`, `TypeScript (studying)`, `React-Query`, `JavaScript`, `HTML/CSS`
+
+**Back-End**  
+`Python`, `Django REST Framework`, `MySQL`
+
+**DevOps & Infra**  
+`AWS EC2`, `S3`, `CloudFront`, `Route 53`, `ACM`
 
 ----
 
-## AWS 
-### Back
- Django REST API EC2 배포 경험
-- DRF 기반 블로그 API를 EC2에 배포하여 실제 운영
-- Gunicorn + Nginx로 백엔드 서버 안정적으로 구성
-- Route 53을 통해 커스텀 도메인 연결
-### Front
-- 도메인: https://b-hyoung.kr
-- 사용 서비스: S3, CloudFront, Route 53, ACM
+## ☁️ AWS 기반 배포 경험
+
+### 💡 Backend (EC2)
+- Django REST API 프로젝트를 EC2에 직접 배포
+- Gunicorn + Nginx 조합으로 안정적 운영
+- Route 53을 통한 커스텀 도메인 연결 및 HTTPS 구성
+
+### 💡 Frontend (정적 웹사이트)
+- 도메인: [https://b-hyoung.kr](https://b-hyoung.kr)
+- Amazon S3 + CloudFront를 활용한 정적 호스팅
+- ACM 인증서 발급 및 HTTPS 적용
+- Route 53을 통한 도메인 연결
 
 ✅ 주요 작업
 - Amazon S3를 이용한 정적 웹사이트 호스팅
