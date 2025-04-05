@@ -31,10 +31,10 @@
 - 사용 서비스: S3, CloudFront, Route 53, ACM
 
 ✅ 주요 작업
-	- Amazon S3를 이용한 정적 웹사이트 호스팅
-	- CloudFront로 글로벌 CDN 구성 및 HTTPS 설정
-	- **ACM(인증서 관리자)**로 SSL 인증서 발급 및 적용
-	- Route 53으로 커스텀 도메인 연결 및 DNS 관리
+- Amazon S3를 이용한 정적 웹사이트 호스팅
+- CloudFront로 글로벌 CDN 구성 및 HTTPS 설정
+- **ACM(인증서 관리자)**로 SSL 인증서 발급 및 적용
+- Route 53으로 커스텀 도메인 연결 및 DNS 관리
 
 ----  
       
