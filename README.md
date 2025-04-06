@@ -26,7 +26,7 @@
 - **IAM Role + AWS Budgets**를 활용해, 예산 초과 시 EC2 인스턴스 자동 중지 설정
 - SNS를 통한 실시간 이메일 알림 수신으로 비용 초과 사전 차단
 
-### 💡 Frontend (정적 웹사이트)
+### 💡 Frontend (정적 웹사이트) ( CI/CD 구현  예정)
 - 도메인: [https://b-hyoung.kr](https://b-hyoung.kr)
 - Amazon S3 + CloudFront를 활용한 정적 호스팅
 - ACM 인증서 발급 및 HTTPS 적용
