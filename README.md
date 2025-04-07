@@ -25,7 +25,7 @@
 ![DRF](https://img.shields.io/badge/DjangoREST-FF1709?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 #### 아직 백엔드는 부족합니다 로그인을 구현하며 CRUD를 사용하고 블로그를 구현헀지만 디테일한부분이 많이 부족합니다.
- 프로젝트를 추가로 진행하며 디테일하게 파는것을 좋아하기때문에 추가프로젝트를 진행하며 익힐것입니다.! 
+#### 프로젝트를 추가로 진행하며 디테일하게 파는것을 좋아하기때문에 추가프로젝트를 진행하며 익힐것입니다.! 
 ---
 ### ☁️ DevOps & Infra  
 ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
