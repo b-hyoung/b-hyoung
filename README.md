@@ -61,13 +61,13 @@
       
 ## 🚀 Projects
 
-| 이름 | 설명 | 링크 |
-|------|------|------|
-| **포폴&블로그** | 정적 웹사이트 + AWS 전체 배포 | [🔗 바로가기](https://b-hyoung.kr) |
-| **Kkeua** | 끝말잇기 게임 (진행 중) | [GitHub](https://github.com/djgnfj-svg/kkua) |
-| **Clover** | 소모임 커뮤니티 | [GitHub](https://github.com/djgnfj-svg/Clover) |
-| **ReSee** | 개인 노트 기록 사이트 | [GitHub](https://github.com/djgnfj-svg/Resee_project) |
-| **Eriwa** | 게임 전적 검색 (중단) | [GitHub](https://github.com/b-hyoung/NewRiwa) |
+| 이름 | 설명 | 링크 | 역할 |
+|------|------|------|------|
+| **포폴&블로그** | 정적 웹사이트 + AWS 전체 배포 | [🔗 바로가기](https://b-hyoung.kr) | 1인개발 |
+| **Kkeua** | 끝말잇기 게임 (진행 중) | [GitHub](https://github.com/djgnfj-svg/kkua) | 프론트 |
+| **Clover** | 소모임 커뮤니티 | [GitHub](https://github.com/djgnfj-svg/Clover) | 프론트 |
+| **ReSee** | 개인 노트 기록 사이트 | [GitHub](https://github.com/djgnfj-svg/Resee_project) | 프론트 |
+| **Eriwa** | 게임 전적 검색 (중단) | [GitHub](https://github.com/b-hyoung/NewRiwa) | 프론트 |
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=b-hyoung&utm_content=farm">
 <img
