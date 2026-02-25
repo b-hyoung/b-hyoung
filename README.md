@@ -90,21 +90,20 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>● 링크</strong>
-      <p>
-        <strong>GitHub</strong>:
-        <a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">AI Serbot Repository</a><br />
-        <strong>Live Demo</strong>: R-Bot (A-IOT)
-      </p>
+      <table width="100%">
+        <tr>
+          <td align="center"><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">GitHub</a></td>
+          <td align="center">R-Bot (A-iot)</td>
+        </tr>
+      </table>
     </td>
     <td valign="top" width="50%">
-      <strong>● 링크</strong>
-      <p>
-        <strong>GitHub</strong>:
-        <a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">Core-CBT Repository</a><br />
-        <strong>Live Demo</strong>:
-        <a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer">Core-CBT Live Demo</a>
-      </p>
+      <table width="100%">
+        <tr>
+          <td align="center"><a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">GitHub</a></td>
+          <td align="center"><a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer">Live Link</a></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
