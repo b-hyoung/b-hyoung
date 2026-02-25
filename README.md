@@ -7,6 +7,56 @@
 </h3>
 
 
+## 🚀 최근 프로젝트
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <h3 style="margin: 0 0 18px 0;"><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">🛸 AI Serbot(AIot) – 재난 현장 원격 관제 시스템</a></h3>
+      <p><strong>형태</strong>: 4인 팀 프로젝트<br /><strong>역할</strong>: PM · 소켓 서버 설계 및 제어 흐름 총괄</p>
+      <strong>● 소개</strong>
+      <ul>
+        <li>재난 현장 선진입 로봇을 원격 제어·모니터링하는 통합 관제 시스템</li>
+        <li>Robot / Server / GUI 3계층 구조를 적용, 제어 로직과 UI 로직의 결합도를 낮춤</li>
+        <li>TCP 소켓 기반 원격 제어 및 센서·영상 실시간 모니터링</li>
+      </ul>
+      <strong>● AI 음성 인터랙션</strong>
+      <ul>
+        <li>센서 이벤트 발생 시 상태 요약 → LLM 응답 → TTS 안내로 이어지는 음성 피드백 흐름 설계</li>
+        <li>관제 인력 음성 응답을 STT로 수집해 컨텍스트를 갱신하는 양방향 음성 루프 구성</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3 style="margin: 0 0 18px 0;"><a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">🧠 Core-CBT – 자격시험 CBT 학습 서비스</a></h3>
+      <p><strong>형태</strong>: 1인 개발 프로젝트<br /><strong>역할</strong>: 서비스 설계 · 구현 · 운영</p>
+      <strong>● 실사용 기반 개선</strong>
+      <ul>
+        <li>실제 사용자 피드백과 운영 데이터를 바탕으로 기능을 반복 개선</li>
+      </ul>
+      <strong>● 운영·기능</strong>
+      <ul>
+        <li>GPT 보조 해설에 캐시 재사용 구조를 적용하여 중복 호출 비용 40% 절감</li>
+        <li>문제 신고 발생 시 디스코드 알림으로 즉시 확인하고 관리자 페이지에서 처리</li>
+        <li>방문/완료/합격률 기반 관리자 대시보드로 사용자 학습 행동 분석</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%" align="center">
+      <p align="center">
+        <a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer"> GitHub </a>
+      </p>
+    </td>
+    <td valign="top" width="50%" align="center">
+      <p align="center">
+        <a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer"> GitHub </a>
+        &nbsp;&nbsp;
+        <a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer"> Live Demo </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
 ## 🛠 Skills
 
 <table width="100%">
@@ -58,56 +108,6 @@
 <br/><br/>
 
 
-## 🚀 최근 프로젝트
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h3 style="margin: 0 0 18px 0;"><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">🛸 AI Serbot(AIot) – 재난 현장 원격 관제 시스템</a></h3>
-      <p><strong>형태</strong>: 4인 팀 프로젝트<br /><strong>역할</strong>: PM · 소켓 서버 설계 및 제어 흐름 총괄</p>
-      <strong>● 소개</strong>
-      <ul>
-        <li>재난 현장 선진입 로봇을 원격 제어·모니터링하는 통합 관제 시스템</li>
-        <li>Robot / Server / GUI 3계층 구조를 적용, 제어 로직과 UI 로직의 결합도를 낮춤</li>
-        <li>TCP 소켓 기반 원격 제어 및 센서·영상 실시간 모니터링</li>
-      </ul>
-      <strong>● AI 음성 인터랙션</strong>
-      <ul>
-        <li>센서 이벤트 발생 시 상태 요약 → LLM 응답 → TTS 안내로 이어지는 음성 피드백 흐름 설계</li>
-        <li>관제 인력 음성 응답을 STT로 수집해 컨텍스트를 갱신하는 양방향 음성 루프 구성</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3 style="margin: 0 0 18px 0;"><a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">🧠 Core-CBT – 자격시험 CBT 학습 서비스</a></h3>
-      <p><strong>형태</strong>: 1인 개발 프로젝트<br /><strong>역할</strong>: 서비스 설계 · 구현 · 운영</p>
-      <strong>● 실사용 기반 개선</strong>
-      <ul>
-        <li>실제 사용자 피드백과 운영 데이터를 바탕으로 기능을 반복 개선</li>
-      </ul>
-      <strong>● 운영·기능</strong>
-      <ul>
-        <li>GPT 보조 해설에 캐시 재사용 구조를 적용하여 중복 호출 비용 40% 절감</li>
-        <li>문제 신고 발생 시 디스코드 알림으로 즉시 확인하고 관리자 페이지에서 처리</li>
-        <li>방문/완료/합격률 기반 관리자 대시보드로 사용자 학습 행동 분석</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%" align="center">
-      <p align="center">
-        <a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer"> GitHub </a>
-      </p>
-    </td>
-    <td valign="top" width="50%" align="center">
-      <p align="center">
-        <a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer"> GitHub </a>
-        &nbsp;&nbsp;
-        <a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer"> Live Demo </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
 
 <table width="100%">
   <tr>
