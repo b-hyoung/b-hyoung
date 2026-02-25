@@ -1,36 +1,43 @@
 ### Next.js 기반 프론트엔드 개발자
 ### 데이터 기반 구조로 유지 보수 가능한 웹을 설계합니다
 
----
 
 ## 🛠 Skills
 
-### 🎨 Front-End (Main)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square)
-![React Query](https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=react-query&logoColor=white)
-
-- Next.js App Router 기반 웹 구조 설계
-- 정적 페이지를 데이터 기반 자동 렌더링 구조로 전환
-- WebSocket을 활용해 실시간 게임 상태를 UI에 반영
-- 상태 관리(Zustand) 및 서버 상태 관리(React Query)
-- LCP 기준 초기 로딩 성능 최적화 경험(3s -> 1s)
-
----
-
-### 🐍 Back-End (Project-level)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-- Django 기반 REST API 구현
-- 인증·CRUD 중심 개인 프로젝트 경험
-- TCP 소켓 기반 원격 제어 서버와 센서 이벤트 흐름을 설계·총괄
-- 센서 트리거 → LLM → STT/TTS 음성 루프를 운영 기준(임계치·쿨다운)으로 설계
-
-※ 백엔드는 서비스 구조 이해 및 프론트엔드 연동 목적의 사용 경험 중심
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🎨 Front-End (Main)</h3>
+      <p>
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img alt="Zustand" src="https://img.shields.io/badge/Zustand-000000?style=flat-square" />
+        <img alt="React Query" src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=react-query&logoColor=white" />
+      </p>
+      <ul>
+        <li>정적 페이지를 데이터 기반 자동 렌더링 구조로 전환</li>
+        <li>WebSocket을 활용해 실시간 게임 상태를 UI에 반영</li>
+        <li>상태 관리(Zustand) 및 서버 상태 관리(React Query)</li>
+        <li>LCP 기준 초기 로딩 성능 최적화 경험(3s -> 1s)</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🐍 Back-End (Project-level)</h3>
+      <p>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <ul>
+        <li>Django 기반 REST API 구현</li>
+        <li>인증·CRUD 중심 개인 프로젝트 경험</li>
+        <li>TCP 소켓 기반 원격 제어 서버와 센서 이벤트 흐름 설계·총괄</li>
+        <li>센서 트리거 → LLM → STT/TTS 음성 루프를 운영 기준(임계치·쿨다운)으로 설계</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -40,49 +47,62 @@
 ![CloudFront](https://img.shields.io/badge/CloudFront-F47421?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- S3 + CloudFront 기반 정적 웹 배포
-- EC2 + Nginx + Gunicorn 서버 구성
-- AWS Budgets를 활용한 비용 감소
+- S3 + CloudFront 기반 정적 웹 배포 환경을 구성
+- EC2 + Nginx + Gunicorn 기반 서버 운영 구조를 구축
+- Docker 기반 환경 표준화를 통해 버전 불일치 문제를 최소화하
+- 프론트엔드/백엔드 분리 실행 구조를 구성하여 개발·배포 유연성 향상
+- AWS Budgets를 활용하여 운영 비용을 관리·절감
 ---
 
 ## 🚀 최근 프로젝트
 
-### 🛸 AI Serbot(AIot) – 재난 현장 원격 관제 시스템
-**형태**: 4인 팀 프로젝트  
-**역할**: PM · 소켓 서버 설계 및 제어 흐름 총괄
-
-- 재난 현장 선진입 로봇을 원격 제어·모니터링하는 통합 관제 시스템
-- TCP 소켓 기반 원격 제어 및 센서·영상 실시간 모니터링
-
-**AI 음성 인터랙션**
-- 센서 이벤트 발생 시 상태 요약 → LLM 응답 → TTS 안내로 이어지는 음성 피드백 흐름 설계
-- 관제 인력 음성 응답을 STT로 수집해 컨텍스트를 갱신하는 양방향 음성 루프 구성
-
-### [🧠 Core-CBT – 자격시험 CBT 학습 서비스](https://github.com/b-hyoung/Core-CBT)
-**형태**: 1인 개발 프로젝트  
-**역할**: 서비스 설계 · 구현 · 운영
-
-**실사용 기반 개선**
-- 실제 사용자 피드백과 운영 데이터를 바탕으로 기능을 반복 개선하였습니다.
-
-**운영·기능**
-- GPT 보조 해설에 캐시 재사용 구조를 적용하여 중복 호출 비용 40% 절감
-- 문제 신고 발생 시 디스코드 알림으로 즉시 확인하고 관리자 페이지에서 처리
-- 방문/완료/합격률 기반 관리자 대시보드로 사용자 학습 행동 분석
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">🛸 AI Serbot(AIot) – 재난 현장 원격 관제 시스템</a></h3>
+      <p><strong>형태</strong>: 4인 팀 프로젝트<br /><strong>역할</strong>: PM · 소켓 서버 설계 및 제어 흐름 총괄</p>
+      <strong>● 소개</strong>
+      <ul>
+        <li>재난 현장 선진입 로봇을 원격 제어·모니터링하는 통합 관제 시스템</li>
+        <li>Robot / Server / GUI 3계층 구조를 적용 , 제어 로직과 UI 로직의 결합도를 낮춤</li>
+        <li>TCP 소켓 기반 원격 제어 및 센서·영상 실시간 모니터링</li>
+      </ul>
+      <strong>● AI 음성 인터랙션</strong>
+      <ul>
+        <li>센서 이벤트 발생 시 상태 요약 → LLM 응답 → TTS 안내로 이어지는 음성 피드백 흐름 설계</li>
+        <li>관제 인력 음성 응답을 STT로 수집해 컨텍스트를 갱신하는 양방향 음성 루프 구성</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">🧠 Core-CBT – 자격시험 CBT 학습 서비스</a></h3>
+      <p><strong>형태</strong>: 1인 개발 프로젝트<br /><strong>역할</strong>: 서비스 설계 · 구현 · 운영</p>
+      <strong>● 실사용 기반 개선</strong>
+      <ul>
+        <li>실제 사용자 피드백과 운영 데이터를 바탕으로 기능을 반복 개선</li>
+      </ul>
+      <strong>● 운영·기능</strong>
+      <ul>
+        <li>GPT 보조 해설에 캐시 재사용 구조를 적용하여 중복 호출 비용 40% 절감</li>
+        <li>문제 신고 발생 시 디스코드 알림으로 즉시 확인하고 관리자 페이지에서 처리</li>
+        <li>방문/완료/합격률 기반 관리자 대시보드로 사용자 학습 행동 분석</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 | 프로젝트 | 설명 | 링크 | 역할 |
 |--------|------|------|------|
-| **포트폴리오 & 블로그** | Django기반 웹 | [자기소개 블로그](https://django-myportpolio.onrender.com/) | 1인 개발 |
-| **kumamid** | 졸업작품전 웹사이트 |[kumamid](https://kmid.netlify.app) | 2인 개발 |
-| **ai-serbot** | 구조현장-ai(AIot_rbot) |[깃허브](https://github.com/b-hyoung/Ai_serbot-project) | 4인 개발 |
-| **Core-CBT** | 정처산기·SQLD CBT |[Core-CBT](https://jvbhs.netlify.app) | 1인 개발 · 오픈소스 운영  |
+| **포트폴리오 & 블로그** | Django기반 웹 | <a href="https://django-myportpolio.onrender.com/" target="_blank" rel="noopener noreferrer">자기소개 블로그</a> | 1인 개발 |
+| **kumamid** | 졸업작품전 웹사이트 | <a href="https://kmid.netlify.app" target="_blank" rel="noopener noreferrer">kumamid</a> | 2인 개발 |
+| **ai-serbot** | 구조현장-ai(AIot_rbot) | <a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">깃허브</a> | 4인 개발 |
+| **Core-CBT** | 정처산기·SQLD CBT | <a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer">Core-CBT</a> | 1인 개발 · 오픈소스 운영  |
 
 
 ---
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=b-hyoung&utm_content=farm">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=b-hyoung&utm_content=farm" target="_blank" rel="noopener noreferrer">
 <img
   src="https://render.gitanimals.org/farms/b-hyoung"
   width="400"
