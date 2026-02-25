@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>🎨 Front-End (Main)</h3>
+      <h3>🎨 Front-End </h3>
       <p>
         <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>🐍 Back-End (Project-level)</h3>
+      <h3>🐍 Back-End</h3>
       <p>
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
