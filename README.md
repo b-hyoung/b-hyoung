@@ -89,21 +89,16 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <table width="100%">
-        <tr>
-          <td align="center"><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">GitHub</a></td>
-          <td align="center">R-Bot (A-iot)</td>
-        </tr>
-      </table>
+    <td valign="top" width="50%" align="center">
+      <p align="center">
+        <a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">[ GitHub ]</a>
+      </p>
     </td>
-    <td valign="top" width="50%">
-      <table width="100%">
-        <tr>
-          <td align="center"><a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">GitHub</a></td>
-          <td align="center"><a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer">Live Link</a></td>
-        </tr>
-      </table>
+    <td valign="top" width="50%" align="center">
+      <p align="center">
+        <a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">[ GitHub ]</a>
+        <a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer">[ Live Demo ]</a>
+      </p>
     </td>
   </tr>
 </table>
