@@ -39,9 +39,7 @@
   </tr>
 </table>
 
----
-
-### ☁️ Cloud & Infra (AWS)
+## ☁️ Cloud & Infra (AWS)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-F47421?style=flat-square)
@@ -52,14 +50,14 @@
 - Docker 기반 환경 표준화를 통해 버전 불일치 문제를 최소화
 - 프론트엔드/백엔드 분리 실행 구조를 구성하여 개발·배포 유연성 향상
 - AWS Budgets를 활용하여 운영 비용을 관리
----
+<br/><br/>
+
 
 ## 🚀 최근 프로젝트
-
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">🛸 AI Serbot(AIot) – 재난 현장 원격 관제 시스템</a></h3>
+      <h3 style="margin: 0 0 18px 0;"><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">🛸 AI Serbot(AIot) – 재난 현장 원격 관제 시스템</a></h3>
       <p><strong>형태</strong>: 4인 팀 프로젝트<br /><strong>역할</strong>: PM · 소켓 서버 설계 및 제어 흐름 총괄</p>
       <strong>● 소개</strong>
       <ul>
@@ -74,7 +72,7 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3><a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">🧠 Core-CBT – 자격시험 CBT 학습 서비스</a></h3>
+      <h3 style="margin: 0 0 18px 0;"><a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">🧠 Core-CBT – 자격시험 CBT 학습 서비스</a></h3>
       <p><strong>형태</strong>: 1인 개발 프로젝트<br /><strong>역할</strong>: 서비스 설계 · 구현 · 운영</p>
       <strong>● 실사용 기반 개선</strong>
       <ul>
@@ -91,13 +89,14 @@
   <tr>
     <td valign="top" width="50%" align="center">
       <p align="center">
-        <a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">[ GitHub ]</a>
+        <a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer"> GitHub </a>
       </p>
     </td>
     <td valign="top" width="50%" align="center">
       <p align="center">
-        <a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">[ GitHub ]</a>
-        <a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer">[ Live Demo ]</a>
+        <a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer"> GitHub </a>
+        &nbsp;&nbsp;
+        <a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer"> Live Demo </a>
       </p>
     </td>
   </tr>
