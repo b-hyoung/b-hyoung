@@ -16,10 +16,10 @@
         <img alt="React Query" src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=react-query&logoColor=white" />
       </p>
       <ul>
-        <li>정적 페이지를 데이터 기반 자동 렌더링 구조로 전환</li>
         <li>WebSocket을 활용해 실시간 게임 상태를 UI에 반영</li>
-        <li>상태 관리(Zustand) 및 서버 상태 관리(React Query)</li>
+        <li>정적 페이지를 데이터 기반 자동 렌더링 구조로 전환</li>
         <li>LCP 기준 초기 로딩 성능 최적화 경험(3s -> 1s)</li>
+        <li>상태 관리(Zustand) 및 서버 상태 관리(React Query)</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -30,10 +30,10 @@
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
       <ul>
-        <li>Django 기반 REST API 구현</li>
-        <li>인증·CRUD 중심 개인 프로젝트 경험</li>
         <li>TCP 소켓 기반 원격 제어 서버와 센서 이벤트 흐름 설계·총괄</li>
         <li>센서 트리거 → LLM → STT/TTS 음성 루프를 운영 기준(임계치·쿨다운)으로 설계</li>
+        <li>Django 기반 REST API 구현</li>
+        <li>인증·CRUD 중심 개인 프로젝트 경험</li>
       </ul>
     </td>
   </tr>
@@ -47,11 +47,11 @@
 ![CloudFront](https://img.shields.io/badge/CloudFront-F47421?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- S3 + CloudFront 기반 정적 웹 배포 환경을 구성
+- S3 + CloudFront 기반 정적 웹 배포 환경 구축
 - EC2 + Nginx + Gunicorn 기반 서버 운영 구조를 구축
-- Docker 기반 환경 표준화를 통해 버전 불일치 문제를 최소화하
+- Docker 기반 환경 표준화를 통해 버전 불일치 문제를 최소화
 - 프론트엔드/백엔드 분리 실행 구조를 구성하여 개발·배포 유연성 향상
-- AWS Budgets를 활용하여 운영 비용을 관리·절감
+- AWS Budgets를 활용하여 운영 비용을 관리
 ---
 
 ## 🚀 최근 프로젝트
