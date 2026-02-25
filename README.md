@@ -4,7 +4,7 @@
 
 ## 🛠 Skills
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3>🎨 Front-End </h3>
@@ -56,7 +56,7 @@
 
 ## 🚀 최근 프로젝트
 
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">🛸 AI Serbot(AIot) – 재난 현장 원격 관제 시스템</a></h3>
@@ -64,7 +64,7 @@
       <strong>● 소개</strong>
       <ul>
         <li>재난 현장 선진입 로봇을 원격 제어·모니터링하는 통합 관제 시스템</li>
-        <li>Robot / Server / GUI 3계층 구조를 적용 , 제어 로직과 UI 로직의 결합도를 낮춤</li>
+        <li>Robot / Server / GUI 3계층 구조를 적용, 제어 로직과 UI 로직의 결합도를 낮춤</li>
         <li>TCP 소켓 기반 원격 제어 및 센서·영상 실시간 모니터링</li>
       </ul>
       <strong>● AI 음성 인터랙션</strong>
@@ -72,17 +72,6 @@
         <li>센서 이벤트 발생 시 상태 요약 → LLM 응답 → TTS 안내로 이어지는 음성 피드백 흐름 설계</li>
         <li>관제 인력 음성 응답을 STT로 수집해 컨텍스트를 갱신하는 양방향 음성 루프 구성</li>
       </ul>
-      <strong>● 링크</strong>
-      <table>
-        <tr>
-          <td><strong>GitHub</strong></td>
-          <td><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">AI Serbot Repository</a></td>
-        </tr>
-        <tr>
-          <td><strong>Live Demo</strong></td>
-          <td>R-Bot (A-IOT)</td>
-        </tr>
-      </table>
     </td>
     <td valign="top" width="50%">
       <h3><a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">🧠 Core-CBT – 자격시험 CBT 학습 서비스</a></h3>
@@ -97,8 +86,25 @@
         <li>문제 신고 발생 시 디스코드 알림으로 즉시 확인하고 관리자 페이지에서 처리</li>
         <li>방문/완료/합격률 기반 관리자 대시보드로 사용자 학습 행동 분석</li>
       </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
       <strong>● 링크</strong>
-      <table>
+      <table width="100%">
+        <tr>
+          <td><strong>GitHub</strong></td>
+          <td><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">AI Serbot Repository</a></td>
+        </tr>
+        <tr>
+          <td><strong>Live Demo</strong></td>
+          <td>R-Bot (A-IOT)</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" width="50%">
+      <strong>● 링크</strong>
+      <table width="100%">
         <tr>
           <td><strong>GitHub</strong></td>
           <td><a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">Core-CBT Repository</a></td>
@@ -114,12 +120,43 @@
 
 ---
 
-| 프로젝트 | 설명 | Live Demo | 역할 | GitHub |
-|--------|------|------|------|------|
-| **포트폴리오 & 블로그** | Django기반 웹 | <a href="https://django-myportpolio.onrender.com/" target="_blank" rel="noopener noreferrer">자기소개 블로그</a> | 1인 개발 | <a href="https://github.com/b-hyoung/django_myPortpolio" target="_blank" rel="noopener noreferrer">바로가기</a> |
-| **kumamid** | 졸업작품전 웹사이트 | <a href="https://kmid.netlify.app" target="_blank" rel="noopener noreferrer">kumamid</a> | 2인 개발 | <a href="https://github.com/b-hyoung/remake_kumamid" target="_blank" rel="noopener noreferrer">바로가기</a> |
-| **ai-serbot** | 구조현장-ai(AIot_rbot) | - | 4인 개발 | <a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">바로가기</a> |
-| **Core-CBT** | 정처산기·SQLD CBT | <a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer">Core-CBT</a> | 1인 개발 · 오픈소스 운영  | <a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">바로가기</a> |
+<table width="100%">
+  <tr>
+    <th align="left">프로젝트</th>
+    <th align="left">설명</th>
+    <th align="left">Live Demo</th>
+    <th align="left">역할</th>
+    <th align="left">GitHub</th>
+  </tr>
+  <tr>
+    <td><strong>포트폴리오 & 블로그</strong></td>
+    <td>Django기반 웹</td>
+    <td><a href="https://django-myportpolio.onrender.com/" target="_blank" rel="noopener noreferrer">자기소개 블로그</a></td>
+    <td>1인 개발</td>
+    <td><a href="https://github.com/b-hyoung/django_myPortpolio" target="_blank" rel="noopener noreferrer">바로가기</a></td>
+  </tr>
+  <tr>
+    <td><strong>kumamid</strong></td>
+    <td>졸업작품전 웹사이트</td>
+    <td><a href="https://kmid.netlify.app" target="_blank" rel="noopener noreferrer">kumamid</a></td>
+    <td>2인 개발</td>
+    <td><a href="https://github.com/b-hyoung/remake_kumamid" target="_blank" rel="noopener noreferrer">바로가기</a></td>
+  </tr>
+  <tr>
+    <td><strong>ai-serbot</strong></td>
+    <td>구조현장-ai(AIot_rbot)</td>
+    <td>-</td>
+    <td>4인 개발</td>
+    <td><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">바로가기</a></td>
+  </tr>
+  <tr>
+    <td><strong>Core-CBT</strong></td>
+    <td>정처산기·SQLD CBT</td>
+    <td><a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer">Core-CBT</a></td>
+    <td>1인 개발 · 오픈소스 운영</td>
+    <td><a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">바로가기</a></td>
+  </tr>
+</table>
 
 
 ---
