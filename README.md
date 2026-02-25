@@ -1,5 +1,10 @@
 ### Next.js 기반 프론트엔드 개발자
-### 데이터 기반 구조로 유지 보수 가능한 웹을 설계합니다
+화면 구현에 그치지 않고, 운영과 개선이 가능한 웹 구조를 설계합니다.
+
+
+<h3>
+  기술블로그 : <a href="https://kimbob-world.tistory.com/" target="_blank" rel="noopener noreferrer">티스토리 블로그 가기</a>
+</h3>
 
 
 ## 🛠 Skills
