@@ -1,9 +1,6 @@
 ### Next.js 기반 프론트엔드 개발자
 ### 데이터 기반 구조로 유지 보수 가능한 웹을 설계합니다
 
-**Frontend**: Next.js · TypeScript · TailwindCSS · Zustand · React Query  
-**Backend**: Django · Python · MySQL · TCP Socket  
-**Infra**: AWS(S3, EC2, CloudFront) · Docker
 ---
 
 ## 🛠 Skills
