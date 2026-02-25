@@ -1,6 +1,9 @@
 ### Next.js 기반 프론트엔드 개발자
 ### 데이터 기반 구조로 유지 보수 가능한 웹을 설계합니다
 
+**Frontend**: Next.js · TypeScript · TailwindCSS · Zustand · React Query  
+**Backend**: Django · Python · MySQL · TCP Socket  
+**Infra**: AWS(S3, EC2, CloudFront) · Docker
 ---
 
 ## 🛠 Skills
@@ -45,7 +48,7 @@
 - AWS Budgets를 활용한 비용 감소
 ---
 
-## 🚀 Projects
+## 🚀 최근 프로젝트
 
 ### 🛸 AI Serbot(AIot) – 재난 현장 원격 관제 시스템
 **형태**: 4인 팀 프로젝트  
@@ -55,8 +58,20 @@
 - TCP 소켓 기반 원격 제어 및 센서·영상 실시간 모니터링
 
 **AI 음성 인터랙션**
-- 센서 이벤트를 트리거로 상태 요약 → LLM 응답 → TTS 안내 흐름 설계
-- 관제 인력 음성 응답을 STT로 수집해 대화 컨텍스트를 갱신하는 루프 구성
+- 센서 이벤트 발생 시 상태 요약 → LLM 응답 → TTS 안내로 이어지는 음성 피드백 흐름 설계
+- 관제 인력 음성 응답을 STT로 수집해 컨텍스트를 갱신하는 양방향 음성 루프 구성
+
+### [🧠 Core-CBT – 자격시험 CBT 학습 서비스](https://github.com/b-hyoung/Core-CBT)
+**형태**: 1인 개발 프로젝트  
+**역할**: 서비스 설계 · 구현 · 운영
+
+**실사용 기반 개선**
+- 실제 사용자 피드백과 운영 데이터를 바탕으로 기능을 반복 개선하였습니다.
+
+**운영·기능**
+- GPT 보조 해설에 캐시 재사용 구조를 적용하여 중복 호출 비용 40% 절감
+- 문제 신고 발생 시 디스코드 알림으로 즉시 확인하고 관리자 페이지에서 처리
+- 방문/완료/합격률 기반 관리자 대시보드로 사용자 학습 행동 분석
 
 ---
 
@@ -65,6 +80,7 @@
 | **포트폴리오 & 블로그** | Django기반 웹 | [자기소개 블로그](https://django-myportpolio.onrender.com/) | 1인 개발 |
 | **kumamid** | 졸업작품전 웹사이트 |[kumamid](https://kmid.netlify.app) | 2인 개발 |
 | **ai-serbot** | 구조현장-ai(AIot_rbot) |[깃허브](https://github.com/b-hyoung/Ai_serbot-project) | 4인 개발 |
+| **Core-CBT** | 정처산기·SQLD CBT |[Core-CBT](https://jvbhs.netlify.app) | 1인 개발 · 오픈소스 운영  |
 
 
 ---
