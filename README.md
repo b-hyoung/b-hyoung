@@ -93,12 +93,12 @@
       <strong>● 링크</strong>
       <table width="100%">
         <tr>
-          <td><strong>GitHub</strong></td>
-          <td><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">AI Serbot Repository</a></td>
+          <td width="28%"><strong>GitHub</strong></td>
+          <td width="72%"><a href="https://github.com/b-hyoung/Ai_serbot-project" target="_blank" rel="noopener noreferrer">AI Serbot Repository</a></td>
         </tr>
         <tr>
-          <td><strong>Live Demo</strong></td>
-          <td>R-Bot (A-IOT)</td>
+          <td width="28%"><strong>Live Demo</strong></td>
+          <td width="72%">R-Bot (A-IOT)</td>
         </tr>
       </table>
     </td>
@@ -106,12 +106,12 @@
       <strong>● 링크</strong>
       <table width="100%">
         <tr>
-          <td><strong>GitHub</strong></td>
-          <td><a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">Core-CBT Repository</a></td>
+          <td width="28%"><strong>GitHub</strong></td>
+          <td width="72%"><a href="https://github.com/b-hyoung/Core-CBT" target="_blank" rel="noopener noreferrer">Core-CBT Repository</a></td>
         </tr>
         <tr>
-          <td><strong>Live Demo</strong></td>
-          <td><a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer">Core-CBT Live Demo</a></td>
+          <td width="28%"><strong>Live Demo</strong></td>
+          <td width="72%"><a href="https://jvbhs.netlify.app" target="_blank" rel="noopener noreferrer">Core-CBT Live Demo</a></td>
         </tr>
       </table>
     </td>
